@@ -1,0 +1,7 @@
+[
+{"email":"al*********@example.com","phone":"555-1234","city":"New York","customer_id":"1001","first_name":"Alice","last_name":"Smith","signup_date":"2021-01-15"},
+{"email":"bo*********@example.com","phone":"555-2345","city":"Los Angeles","customer_id":"1002","first_name":"Bob","last_name":"Johnson","signup_date":"2021-03-22"},
+{"email":"ch**************@example.com","phone":"555-3456","city":"Chicago","customer_id":"1003","first_name":"Charlie","last_name":"Williams","signup_date":"2021-07-10"},
+{"email":"di*********@example.com","phone":"555-4567","city":"Houston","customer_id":"1004","first_name":"Diana","last_name":"Brown","signup_date":"2021-11-05"},
+{"email":"ed**********@example.com","phone":"555-5678","city":"Phoenix","customer_id":"1005","first_name":"Edward","last_name":"Jones","signup_date":"2022-02-18"}
+]

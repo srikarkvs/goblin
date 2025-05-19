@@ -1,0 +1,47 @@
+[
+  {
+    "customer_id": "1001",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "email": "alice.smith@example.com",
+    "phone": "555-1234",
+    "city": "New York",
+    "signup_date": "2021-01-15"
+  },
+  {
+    "customer_id": "1002",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "email": "bob.johnson@example.com",
+    "phone": "555-2345",
+    "city": "Los Angeles",
+    "signup_date": "2021-03-22"
+  },
+  {
+    "customer_id": "1003",
+    "first_name": "Charlie",
+    "last_name": "Williams",
+    "email": "charlie.williams@example.com",
+    "phone": "555-3456",
+    "city": "Chicago",
+    "signup_date": "2021-07-10"
+  },
+  {
+    "customer_id": "1004",
+    "first_name": "Diana",
+    "last_name": "Brown",
+    "email": "diana.brown@example.com",
+    "phone": "555-4567",
+    "city": "Houston",
+    "signup_date": "2021-11-05"
+  },
+  {
+    "customer_id": "1005",
+    "first_name": "Edward",
+    "last_name": "Jones",
+    "email": "edward.jones@example.com",
+    "phone": "555-5678",
+    "city": "Phoenix",
+    "signup_date": "2022-02-18"
+  }
+]

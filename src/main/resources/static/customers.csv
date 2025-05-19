@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone,city,signup_date
+1001,Alice,Smith,alice.smith@example.com,555-1234,New York,2021-01-15
+1002,Bob,Johnson,bob.johnson@example.com,555-2345,Los Angeles,2021-03-22
+1003,Charlie,Williams,charlie.williams@example.com,555-3456,Chicago,2021-07-10
+1004,Diana,Brown,diana.brown@example.com,555-4567,Houston,2021-11-05
+1005,Edward,Jones,edward.jones@example.com,555-5678,Phoenix,2022-02-18
